@@ -1,4 +1,4 @@
-console.log('blz')
+
 
 function questaoUm() {
     let k = 0; // inicializa k com 0
